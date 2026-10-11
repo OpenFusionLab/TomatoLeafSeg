@@ -52,10 +52,5 @@ Image-to-mask correspondence, mask encoding, and metadata fields will be documen
 
 Original PlantVillage images are available from the [PlantVillage dataset repository](https://github.com/spMohanty/PlantVillage-Dataset). This repository provides the new lesion masks and their image correspondence.
 
-## Citation
 
-Please cite the MVMamba-Seg paper when using these annotations. The final citation and the licensing information for the released files will be added with the public release.
 
-## Contact
-
-Zaichun Yang, corresponding author: zcyang@nudt.edu.cn
